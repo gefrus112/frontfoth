@@ -1,2 +1,2 @@
 # cubeley
-Roblox alternative still in beta
+rpg web game
