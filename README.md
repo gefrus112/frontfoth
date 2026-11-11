@@ -1,1 +1,1 @@
-NetGl a new java scritp tool that els you make web gl games s easier elts you get a link of a mdoel texsure form any website like sektch fab and elts you palce it like in code for texsures works in any code editor
+
